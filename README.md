@@ -33,19 +33,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ShekharSuman/ShekharSuman/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhar-suman-497894226)  
 [![DSA & CP Profile](https://img.shields.io/badge/Codolio_Profile-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Levi42x)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
 ---
 
 
