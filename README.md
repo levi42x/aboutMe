@@ -29,8 +29,6 @@
 ## 📊 GitHub Stats
 
 ![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharSuman&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekharSuman&layout=compact&theme=radical)
-
 ---
 
 ## 🔗 Connect with Me
