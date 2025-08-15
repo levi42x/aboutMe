@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharSuman&show_icons=true&theme=radical)  
+##![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharSuman&show_icons=true&theme=radical)  
 ---
 
 ## 🔗 Connect with Me
