@@ -23,13 +23,3 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhar-suman-497894226)  
-[![DSA & CP Profile](https://img.shields.io/badge/Codolio_Profile-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/Levi42x)  
----
-
-
